@@ -1,3 +1,4 @@
+HEAD
 \# Promise-Keeper
 
 
@@ -18,3 +19,7 @@ generates a pre-meeting brief. Built with Streamlit, Hindsight memory and an LLM
 
 3\. streamlit run app.py
 
+
+# Promise-Keeper
+Promise-Keeper powered by Hindsight- An AI agent that remembers past meetings and prepares you with context before the next one.
+ 340a85653dbc9c81ac1eb5df6614bef4457c2742
